@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_map"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        android:title="Map" />
+    <item
+        android:id="@+id/nav_gi"
+        android:icon="@drawable/ic_baseline_library_books_24"
+        android:title="GI Glossary" />
+    <item
+        android:id="@+id/nav_learning"
+        android:icon="@drawable/ic_baseline_assignment_ind_24"
+        android:title="Resources" />
+    <item
+        android:id="@+id/nav_contact"
+        android:icon="@drawable/ic_baseline_message_24"
+        android:title="Contact" />
+    <item
+    android:id="@+id/nav_settings"
+    android:icon="@drawable/ic_baseline_settings_24"
+    android:title="Settings" />
+</menu>
